@@ -5,4 +5,8 @@ Alamat	: Karangkajen, Yogyakarta
 Umur		: 28 Tahun
 Pekerjaan	: Mobile Developer
 
+Nama	: Andhika Putranto
+Alamat	: jl Godean km 7 perumahan sariarum
+umur		: 23 tahun
+Pekerjaan	: Mahasiswa
 < tambahkan ? >
