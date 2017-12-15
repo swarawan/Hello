@@ -6,4 +6,7 @@ Umur		: 28 Tahun
 Pekerjaan	: Mobile Developer
 Github		: https://github.com/swarawan
 
-< tambahkan ? >
+Nama	: Rafi'i Ferrynantyo
+Alamat	: Candi Gebang
+Umur	: 23 Tahun
+Pekerjaan	: Publisher
