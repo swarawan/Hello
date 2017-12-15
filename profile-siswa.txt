@@ -1,0 +1,8 @@
+Profile Siswa Binar.
+
+Nama	: Rio Swarawan Putra
+Alamat	: Karangkajen, Yogyakarta
+Umur		: 28 Tahun
+Pekerjaan	: Mobile Developer
+
+< tambahkan ? >
