@@ -6,6 +6,11 @@ Umur		: 28 Tahun
 Pekerjaan	: Mobile Developer
 Github		: https://github.com/swarawan
 
+Nama	: Dandi Karunia Pratama
+Alamat	: Ds. Badran, Kranggan, Temanggung
+Umur		: 18 Tahun
+Pekerjaan	: -
+
 Nama	: Rafi'i Ferrynantyo
 Alamat	: Candi Gebang
 Umur	: 23 Tahun
