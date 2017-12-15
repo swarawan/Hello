@@ -4,6 +4,7 @@ Nama	: Rio Swarawan Putra
 Alamat	: Karangkajen, Yogyakarta
 Umur		: 28 Tahun
 Pekerjaan	: Mobile Developer
+Github		: https://github.com/swarawan
 
 Nama	: Dandi Karunia Pratama
 Alamat	: Ds. Badran, Kranggan, Temanggung
