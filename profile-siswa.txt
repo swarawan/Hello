@@ -6,7 +6,14 @@ Umur		: 28 Tahun
 Pekerjaan	: Mobile Developer
 Github		: https://github.com/swarawan
 
+Nama	: Andhika Putranto
+Alamat	: jl Godean km 7 perumahan sariarum
+umur		: 23 tahun
+Pekerjaan	: Mahasiswa
+< tambahkan ? >
+
 Nama	: Rafi'i Ferrynantyo
 Alamat	: Candi Gebang
 Umur	: 23 Tahun
 Pekerjaan	: Publisher
+
