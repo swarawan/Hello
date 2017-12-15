@@ -5,4 +5,7 @@ Alamat	: Karangkajen, Yogyakarta
 Umur		: 28 Tahun
 Pekerjaan	: Mobile Developer
 
-< tambahkan ? >
+Nama	: Dandi Karunia Pratama
+Alamat	: Ds. Badran, Kranggan, Temanggung
+Umur		: 18 Tahun
+Pekerjaan	: -
